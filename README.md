@@ -6,8 +6,10 @@
 <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="100"/></a>
 
 ## Материалы
-<a href="https://odysee.com/$/invite/@GS-RUS:f" target="_blank">Видео</a>
+
 <img src="https://img2.teletype.in/files/d9/b5/d9b5bede-f4e7-433f-9b21-3735aeb46fec.png" alt="#" height="100"/>
+
+<a href="https://odysee.com/$/invite/@GS-RUS:f" target="_blank">Видео</a>
 
 <a href="https://teletype.in/@czoc" target="_blank">Блог по Общей-семантике</a>
 
