@@ -5,6 +5,13 @@ The Manhood of Humanity, 2nd edition, A. Korzybski
 <a href="https://f-droid.org/packages/com.timebinding.manhoodofhumanity" target="_blank">
 <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="100"/></a>
 
+<p align="center">
+<img src="screenshots/output.gif" height="500">
+<img src="screenshots/1.png" height="500">
+<img src="screenshots/2.png" height="500">
+<img src="screenshots/3.png" height="500">
+</p>
+
 ## Materials
 
 <img src="https://img2.teletype.in/files/d9/b5/d9b5bede-f4e7-433f-9b21-3735aeb46fec.png" alt="#" height="100"/>
@@ -13,12 +20,7 @@ The Manhood of Humanity, 2nd edition, A. Korzybski
 
 <a href="https://teletype.in/@czoc" target="_blank">Blog</a>
 
-<p align="center">
-<img src="screenshots/output.gif" height="500">
-<img src="screenshots/1.png" height="500">
-<img src="screenshots/2.png" height="500">
-<img src="screenshots/3.png" height="500">
-</p>
+## Description
 
 This work began with a functional definition of 'man', formulated in 1921, based on an analysis of uniquely human potentials; specifically, that each generation can start where the previous one left off. I called this characteristic the 'time-binding' capacity .... We no longer have to blind ourselves to the old dogmas about the 'immutability of human nature' because we have discovered that we can change it. We should realize our human potentials so that we can go to the future with some hope. Alfred Korzybski.
 
