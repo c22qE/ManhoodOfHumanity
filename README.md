@@ -5,6 +5,14 @@
 <a href="https://f-droid.org/packages/com.timebinding.manhoodofhumanity" target="_blank">
 <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="100"/></a>
 
+<p align="center">
+<img src="screenshots/output.gif" height="500">
+<img src="screenshots/1.png" height="500">
+<img src="screenshots/2.png" height="500">
+<img src="screenshots/3.png" height="500">
+</p>
+
+
 ## Материалы
 
 <img src="https://img2.teletype.in/files/d9/b5/d9b5bede-f4e7-433f-9b21-3735aeb46fec.png" alt="#" height="100"/>
@@ -13,12 +21,6 @@
 
 <a href="https://teletype.in/@czoc" target="_blank">Блог по Общей-семантике</a>
 
-<p align="center">
-<img src="screenshots/output.gif" height="500">
-<img src="screenshots/1.png" height="500">
-<img src="screenshots/2.png" height="500">
-<img src="screenshots/3.png" height="500">
-</p>
 
   Эта работа началась с функционального определения ‘человека’, сформулированного в 1921 году, основываясь на анализе уникально человеческих потенциалов; конкретно, на том, что каждое поколение может начать там, где остановилось предыдущее. Я назвал эту характеристику ‘время-связующей’ способностью... Нам больше не придётся ослеплять себя старыми догмами о ‘неизменности человеческой природы’, потому что мы выяснили, что можем её изменить. Нам следует осознать свои человеческие потенциалы, чтобы пойти к будущему с некоторой надеждой.
   Альфред Коржибски.
