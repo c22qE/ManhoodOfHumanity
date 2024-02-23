@@ -1,4 +1,4 @@
-The Manhood of Humanity-, 2nd edition, A. Korzybski
+The Manhood of Humanity, 2nd edition, A. Korzybski
 =========
 
 > **Russian-language adaptations of materials on general semantics**  
