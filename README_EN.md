@@ -1,9 +1,9 @@
 The Manhood of Humanity, 2nd edition, A. Korzybski
 =========
-
 > **Russian-language adaptations of materials on general semantics**  
-<a href="https://f-droid.org/packages/com.timebinding.manhoodofhumanity" target="_blank">
-<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="100"/></a>
+<img src="graphics/icon.png" height="150">
+
+---
 
 <p align="center">
 <img src="screenshots/output.gif" height="500">
@@ -12,9 +12,12 @@ The Manhood of Humanity, 2nd edition, A. Korzybski
 <img src="screenshots/3.png" height="500">
 </p>
 
-## Materials
+---
 
-<img src="https://img2.teletype.in/files/d9/b5/d9b5bede-f4e7-433f-9b21-3735aeb46fec.png" alt="#" height="100"/>
+<a href="https://f-droid.org/packages/com.timebinding.manhoodofhumanity" target="_blank">
+<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="100"/></a>
+
+## Materials
 
 <a href="https://odysee.com/$/invite/@GS-RUS:f" target="_blank">Videos</a>
 
