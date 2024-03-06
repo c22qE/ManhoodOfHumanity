@@ -1,6 +1,6 @@
 The Manhood of Humanity, 2nd edition, A. Korzybski
 =========
-> **Russian-language adaptations of materials on general semantics**  
+> **Materials on general semantics**  
 <img src="graphics/icon.png" height="150">
 
 ---
