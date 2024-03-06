@@ -6,10 +6,9 @@ The Manhood of Humanity, 2nd edition, A. Korzybski
 ---
 
 <p align="center">
-<img src="screenshots/output.gif" height="500">
-<img src="screenshots/1.png" height="500">
-<img src="screenshots/2.png" height="500">
-<img src="screenshots/3.png" height="500">
+<img src="fastlane/android/en-US/images/phoneScreenshots/1.png" height="500">
+<img src="fastlane/android/en-US/images/phoneScreenshots/2.png" height="500">
+<img src="fastlane/android/en-US/images/phoneScreenshots/3.png" height="500">
 </p>
 
 ---
